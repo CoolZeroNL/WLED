@@ -7,7 +7,7 @@ on:
       release:
         description: 'Build the release env matrix (uses .github/platformio_release.ini.template)'
         type: boolean
-        default: false
+        default: true #false
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
