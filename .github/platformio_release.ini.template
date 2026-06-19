@@ -41,14 +41,14 @@
 ;esp32s3dev_16MB_opi_hub75 ;; MoonHub
 ;esp32s3dev_4MB_qspi_hub75 ;; HD-WF2
 ;esp32s3dev_4MB_qspi_hub75 ;; HD-WF2
-
+;esp32dev
+;esp32dev_debug
+;esp32_wrover
 
 
 
 [platformio]
-default_envs = esp32dev
-               esp32dev_debug
-               esp32_eth
+default_envs = esp32_eth
                esp32_eth_mine
-               esp32_wrover
+
           
