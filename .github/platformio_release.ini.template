@@ -49,5 +49,6 @@
 default_envs = esp32dev
                esp32dev_debug
                esp32_eth
+               esp32_eth_mine
                esp32_wrover
           
