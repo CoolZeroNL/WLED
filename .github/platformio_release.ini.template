@@ -49,6 +49,5 @@
 
 [platformio]
 default_envs = esp32_eth_mine
-               d1_mini
 
           
